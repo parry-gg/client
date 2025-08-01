@@ -65,6 +65,9 @@ const response = await client.updateUser(request, {
 });
 ```
 
+## Protos
+Full protos are accessible at [https://github.com/parry-gg/protos](https://github.com/parry-gg/protos)
+
 ## Available Services
 
 The client provides access to the following gRPC services:
